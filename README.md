@@ -14,6 +14,13 @@
 4. Document Backup and Recovery Processes
 
 
+## Resource 1. Data backup and data protection 
+
+## Resource 2. Data Recovery 
+
+
+
+
 ## Table of Content
 Structure your training, lesson, or OER into different segments using headings and subheadings. Include these segments in your table of contents. The table of contents provides an organised overview, allowing readers to quickly find and navigate to the sections of interest.
 
