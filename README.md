@@ -3,7 +3,7 @@
 
 ## Description 
 
- **This Resource is designed to provide learners with a comprehensive understanding of data backup and recovery practices. It covers essential concepts, practical techniques, and tools needed to effectively protect data and ensure its restoration in case of loss or corruption**.
+ **This Resource is designed to provide learners with a comprehensive understanding of data backup,protection and recovery practices. It covers essential concepts, practical techniques, and tools needed to effectively protect data and ensure its restoration in case of loss or corruption**.
 
 ## Learning Objective 
 **By the end of this resource,learners will be able to :**
