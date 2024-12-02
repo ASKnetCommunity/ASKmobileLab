@@ -16,11 +16,11 @@
 
 ## Resource 1. Data backup and data protection 
 
-[**Guide on data backup and Protection**](DIY-Power-Bank.md).
++ [**Guide on data backup and Protection**](DIY-Power-Bank.md).
 
 ## Resource 2. Data Recovery 
 
-[**Guide on data Protection**](DIY-Power-Bank.md).
++ [**Guide on data Protection**](DIY-Power-Bank.md).
 
 
 ## Table of Content
