@@ -29,9 +29,12 @@
 
 
 
- ### ASKnet
+
  
-![ASKnet Logo](/images/asknet-logo.png) 
+| ASKnet| Platform Afica| CC4D |
+| :--------:| :--------: |:--------|
+|![ASKnet Logo](/images/asknet-logo.png)|![Platform Africa Logo](/images/PA-Logo-HD.png)|![CC4D Logo](/images/CC4D.png)|
+
 
 ### Line of Code to integrate images  
   ```
