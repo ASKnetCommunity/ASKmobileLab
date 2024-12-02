@@ -1,14 +1,18 @@
-# Title of your OER Project
+# Data Backup and Recovery 
 
-Use this `README.md` document to describe your Open Educational Resource (OER). The headlines / structure of this document should serve you as a suggestion. It is written in markdown syntax. 
 
-## Description of your OER
-Please use different **hierarchy levels of headlines** to structure your document!
+## Description 
+
+ **This Resource is designed to provide learners with a comprehensive understanding of data backup and recovery practices. It covers essential concepts, practical techniques, and tools needed to effectively protect data and ensure its restoration in case of loss or corruption**.
 
 ## Learning Objective 
-Define what the learner will be able to do after completing this training.
+**By the end of this resource,learners will be able to :**
 
-For example: _"By the end of this webinar, participants will be able to explain the key principles of effective written communication and apply editing techniques to improve clarity and engagement."_
+1. Understand the Importance of Data Protection
+2. Identify and Implement Backup Strategies
+3. Perform Data Recovery
+4. Document Backup and Recovery Processes
+
 
 ## Table of Content
 Structure your training, lesson, or OER into different segments using headings and subheadings. Include these segments in your table of contents. The table of contents provides an organised overview, allowing readers to quickly find and navigate to the sections of interest.
