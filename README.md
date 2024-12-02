@@ -23,15 +23,7 @@
 + [**Guide on data Protection**](DIY-Power-Bank.md).
 
 
-## Table of Content
-Structure your training, lesson, or OER into different segments using headings and subheadings. Include these segments in your table of contents. The table of contents provides an organised overview, allowing readers to quickly find and navigate to the sections of interest.
 
-+ [Resource Example](https://github.com/ASKnetCommunity/OER_documents_template/blob/main/resources_example.md)
-    + [Tools & Materials](https://github.com/ASKnetCommunity/OER_documents_template/blob/main/resources_example.md#tools--materials)
-    + [Step-by-Step Guide / Instructions](https://github.com/ASKnetCommunity/OER_documents_template/blob/main/resources_example.md#step-by-step-guide--instructions)
-+ [Markdown Syntax](https://github.com/ASKnetCommunity/OER_documents_template/blob/main/markdown_syntax.md#markdown-syntax) 
-+ [Licence](https://github.com/ASKnetCommunity/OER_documents_template/blob/main/LICENCE)
-+ [Wiki](https://github.com/ASKnetCommunity/OER_documents_template/wiki/Creating-a-document-with-images-on-GitHub)
 
 ## Additional information for this template
 Find the related Wiki for this template [here](https://github.com/ASKnetCommunity/OER_documents_template/wiki) (this is how you embed links)  
