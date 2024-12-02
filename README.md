@@ -23,7 +23,7 @@
 + [**Guide on data Protection**](DIY-Power-Bank.md).
 
 
-## #ASKnet Logo 
+ 
 ![ASKnet Logo](/images/asknet-logo.png) 
 
 ### Line of Code to integrate images  
