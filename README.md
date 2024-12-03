@@ -1,7 +1,7 @@
 
  ![Pic](/images/vann.jpg)
 
-# Data Backup and Recovery 
+# Data Backup and Data Recovery 
 
 
 ## Description 
