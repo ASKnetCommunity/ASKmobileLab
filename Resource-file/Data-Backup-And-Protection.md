@@ -10,3 +10,9 @@
 + **Hardware failures:** physical damage or wear and tear leading to data inaccessibility
 + **Cybersecurity threats:** ransomware, malware, or other forms of attacks that compromise data integrity
 + **Natural disasters:** floods, fires, or other catastrophes that destroy physical hardware
+
+### Backup Types
+
+
+<p align="center" width="100%">
+<img width="750" src="images/optocoupler-complete.jpg" alt="Complete circuit"/><br><em>Complete circuit</em></p>
