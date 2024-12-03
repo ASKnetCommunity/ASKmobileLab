@@ -23,15 +23,25 @@ DATA BACKUP AND DATA PROTECTION
 
 
 
-1.  **Full Backup**: A complete copy of all data, typically requiring substantial time and storage space but providing a comprehensive snapshot of data at that moment.
+1.  **Full Backup**:
+
+    - A complete copy of all data, typically requiring substantial time and storage space but providing a comprehensive snapshot of data at that moment.
    
-2.  **Incremental Backup**: Only saves changes made since the last backup (full or incremental). It's quicker and requires less storage, but restoration may take longer since multiple backups are needed.
+3.  **Incremental Backup**:
 
-3.  **Differential Backup**: Backs up all changes since the last full backup. It requires more storage than incremental backups but is faster to restore as only two files are needed: the last full backup and the latest differential backup.
+    - Only saves changes made since the last backup (full or incremental). It's quicker and requires less storage, but restoration may take longer since multiple backups are needed.
 
-4.  **Mirror Backup**: An exact replica of data in real time, ensuring the backup is always up to date. However, this method can also mirror deletions or accidental changes, which may pose a risk.
+5.  **Differential Backup**: 
 
-5.  **Cloud Backup**: Data is stored on a remote cloud server, providing off-site security and flexibility for accessing backups from any location with internet access.
+    - Backs up all changes since the last full backup. It requires more storage than incremental backups but is faster to restore as only two files are needed: the last full backup and the latest differential backup.
+
+6.  **Mirror Backup**: 
+
+    - An exact replica of data in real time, ensuring the backup is always up to date. However, this method can also mirror deletions or accidental changes, which may pose a risk.
+
+7.  **Cloud Backup**: 
+
+   - Data is stored on a remote cloud server, providing off-site security and flexibility for accessing backups from any location with internet access.
 
 ### Considerations for Data Backup.
 
