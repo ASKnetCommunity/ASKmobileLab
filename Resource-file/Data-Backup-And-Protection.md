@@ -10,10 +10,18 @@ DATA BACKUP AND DATA PROTECTION
 
 ### Importance of data backup in preventing data loss
 
-+ **Human error:** accidental deletions, overwriting of files, or format errors
-+ **Hardware failures:** physical damage or wear and tear leading to data inaccessibility
-+ **Cybersecurity threats:** ransomware, malware, or other forms of attacks that compromise data integrity
-+ **Natural disasters:** floods, fires, or other catastrophes that destroy physical hardware
++ **Human error:** 
+
+  - accidental deletions, overwriting of files, or format errors
++ **Hardware failures:** 
+
+  - physical damage or wear and tear leading to data inaccessibility
++ **Cybersecurity threats:** 
+
+ - ransomware, malware, or other forms of attacks that compromise data integrity
++ **Natural disasters:** 
+
+ - floods, fires, or other catastrophes that destroy physical hardware
 
 ### Backup Types
 
