@@ -14,5 +14,4 @@
 ### Backup Types
 
 
-<p align="center" width="100%">
-<img width="500" src=" " alt="Backup types"/><br><em>Backup types </em></p>
+ ![The circuit](/images/Circuit-opto.jpg)
