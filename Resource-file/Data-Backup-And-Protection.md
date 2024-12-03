@@ -15,4 +15,4 @@
 
 
 <p align="center" width="100%">
-<img width="750" src="images/optocoupler-complete.jpg" alt="Complete circuit"/><br><em>Complete circuit</em></p>
+<img width="500" src=" " alt="Backup types"/><br><em>Backup types </em></p>
