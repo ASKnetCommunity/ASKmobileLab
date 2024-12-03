@@ -9,7 +9,7 @@ DATA BACKUP AND DATA PROTECTION
 + Data backup is the practice of copying data from a primary to a secondary location, to protect it in case of a disaster, accident or malicious action. Data is the lifeblood of modern organizations, and losing data can cause massive damage and disrupt business operations. This is why backing up your data is critical for all businesses, large and small.
 
 ### Importance of data backup in preventing data loss
-
+---
 + **Human error:** 
 
   - accidental deletions, overwriting of files, or format errors
@@ -24,7 +24,7 @@ DATA BACKUP AND DATA PROTECTION
   - floods, fires, or other catastrophes that destroy physical hardware
 
 ### Backup Types
-
+---
   - There are several types of backup methods, each suited for different needs and circumstances:
   
   ![The types of data backup](/images/Types-of-data-backup.jpg)
@@ -53,6 +53,7 @@ DATA BACKUP AND DATA PROTECTION
 
 ### Considerations for Data Backup.
 
+---
 #### Speed
 The backup speed is one of the most important factors you should consider for your data backup. When you first add an appliance to a system, the first complete backup usually takes some time. But after the first backup is complete, the subsequent updates should take less time. If you notice a network slowdown for your end-users due to a slow backup, then your IT may have to suspend backups, thereby affecting your data backup plan.
 
