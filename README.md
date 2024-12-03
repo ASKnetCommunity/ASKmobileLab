@@ -32,7 +32,7 @@
 
 
 
-### Partners and Suporters
+### Partners and the  Network
 ******* 
 | ASKnet| Platform Afica| CC4D |
 | :--------:| :--------: |:--------|
