@@ -20,7 +20,7 @@
 
 ## Resource 2. Data Recovery 
 
-+ [**Guide on data Protection**](/DIY-Power-Bank.md).
++ [**Guide on data Protection**](Resource-file/Data-Recovery.md).
 
 
 
