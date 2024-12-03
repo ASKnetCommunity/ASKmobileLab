@@ -53,18 +53,18 @@ DATA BACKUP AND DATA PROTECTION
 
 ### Considerations for Data Backup.
 
-## Speed
+#### Speed
 The backup speed is one of the most important factors you should consider for your data backup. When you first add an appliance to a system, the first complete backup usually takes some time. But after the first backup is complete, the subsequent updates should take less time. If you notice a network slowdown for your end-users due to a slow backup, then your IT may have to suspend backups, thereby affecting your data backup plan.
 
-## Flexibility
+#### Flexibility
 The flexibility of your data backup strategy or plan is another factor that you should consider. You want to back up all your data, but this may not be the same for recovery. Recovery must scale from restoring a single file to restoring a whole server.
 
-## Schedule
+#### Schedule
 Your data backups must be automated. They must also run on a schedule without relying on anyone to execute them manually. It would be best if you designed your data backup plans so that they will run frequently and will also capture changes in data and data that rarely change. They should also be scheduled around the needs of your production workflow.
 
 The schedule of your data backup should target the needs of each system, i.e. it must be unique to each system.
 
-### Summary Table
+#### Summary Table
 
 | Frequency    | Storage Options      | 3-2-1 Rule              | Security Measures              |
 |--------------|----------------------|-------------------------|--------------------------------|
@@ -72,14 +72,14 @@ The schedule of your data backup should target the needs of each system, i.e. it
 | **Weekly**   | External drives, NAS | Mix of on-site and off-site | Access control, regular audits |
 | **Monthly**  | NAS, External drives, Cloud | External drive offsite | Backup encryption, regular testing |
 
-## Reliability
+#### Reliability
 
 You must ensure that your data backup strategy is reliable. Once you design the plan, it is important to implement it on an infrastructure you trust. When you ensure that you use the best practices with high-quality, coupled with reliable storage hardware and software solutions, you can be assured that the data you backed up will be recovered whenever you need it.
 
-## Scalability
+#### Scalability
 As time goes on, your data will grow, and the same will also apply to your backup needs. The process through which you backup your data must be buoyant enough to handle the growing volumes of your new data. The process must ensure that your new servers, applications, and data are adequately catered for in your backups.
 
-## Security
+#### Security
 You should have access to your data whenever you need it, but not by anyone. Ensure your data backups are safe from any infringement, as this is vital to your business’s security.
 
 #### References:
