@@ -18,14 +18,14 @@ DATA BACKUP AND DATA PROTECTION
   - physical damage or wear and tear leading to data inaccessibility
 + **Cybersecurity threats:** 
 
- - ransomware, malware, or other forms of attacks that compromise data integrity
+  - ransomware, malware, or other forms of attacks that compromise data integrity
 + **Natural disasters:** 
 
- - floods, fires, or other catastrophes that destroy physical hardware
+  - floods, fires, or other catastrophes that destroy physical hardware
 
 ### Backup Types
 
-- There are several types of backup methods, each suited for different needs and circumstances:
+  - There are several types of backup methods, each suited for different needs and circumstances:
   
   ![The types of data backup](/images/Types-of-data-backup.jpg)
 
