@@ -17,6 +17,8 @@
   
   ![The types of data backup](/images/Types-of-data-backup.jpg)
 
+
+
 1.  **Full Backup**: A complete copy of all data, typically requiring substantial time and storage space but providing a comprehensive snapshot of data at that moment.
    
 2.  **Incremental Backup**: Only saves changes made since the last backup (full or incremental). It's quicker and requires less storage, but restoration may take longer since multiple backups are needed.
@@ -26,3 +28,4 @@
 4.  **Mirror Backup**: An exact replica of data in real time, ensuring the backup is always up to date. However, this method can also mirror deletions or accidental changes, which may pose a risk.
 
 5.  **Cloud Backup**: Data is stored on a remote cloud server, providing off-site security and flexibility for accessing backups from any location with internet access.
+
