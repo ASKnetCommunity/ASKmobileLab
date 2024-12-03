@@ -49,7 +49,7 @@ DATA BACKUP AND DATA PROTECTION
 
 7.  **Cloud Backup**: 
 
-   - Data is stored on a remote cloud server, providing off-site security and flexibility for accessing backups from any location with internet access.
+    - Data is stored on a remote cloud server, providing off-site security and flexibility for accessing backups from any location with internet access.
 
 ### Considerations for Data Backup.
 
