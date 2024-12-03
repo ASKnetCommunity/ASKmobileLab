@@ -3,7 +3,7 @@
 
 ## Description 
 
- **This Resource is designed as a project output under the #ASKmobilelab project between Platform Africa and CC4D  to provide learners with a comprehensive understanding of data backup,protection and recovery practices in the ICT modules. It covers essential concepts, practical techniques, and tools needed to effectively protect data and ensure its restoration in case of loss or corruption**.
+ **This Resource is designed as a project output under the #ASKmobileLab project between Platform Africa and CC4D  to provide learners with a comprehensive understanding of data backup,protection and recovery practices in the ICT modules. It covers essential concepts, practical techniques, and tools needed to effectively protect data and ensure its restoration in case of loss or corruption**.
 
 ## Learning Objective 
 **By the end of this resource,learners will be able to :**
