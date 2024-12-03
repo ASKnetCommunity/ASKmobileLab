@@ -23,7 +23,7 @@
 
 ## Resource 2. Data Recovery 
 
-+ [**Guide on data Protection**](Resource-file/Data-Recovery.md).
++ [**Guide on data Recovery**](Resource-file/Data-Recovery.md).
 
 
 
