@@ -57,8 +57,9 @@
    <img src="/images/CC4D.png" width="30%" alt="CC4D Logo"> 
 </div>
 
+<br>
 
-<div align="center" width="100%" display:flex; flex-wrap:wrap;">
+<div align="center" display:flex; flex-wrap:wrap;">
    <p width="30%"><img src="/images/asknet-logo.png" alt="ASKnet Logo"></p>
    <p width="30%"><img src="/images/PA-Logo-HD.png" alt="Platform Africa Logo"></p>
    <p width="30%"><img src="/images/CC4D.png" alt="CC4D Logo"></p> 
