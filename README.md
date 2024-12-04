@@ -51,13 +51,18 @@
 </p>
 
 
-<div align="center" height="100px" display:flex; flex-wrap:wrap;">
-   <img src="/images/asknet-logo.png" width="30%" alt="Image 1">
-   <img src="images/PA-Logo-HD.png" width="30%" alt="Image 2">
-   <img src="/images/CC4D.png" width="30%" alt="Image 3"> 
+<div align="center" display:flex; flex-wrap:wrap;">
+   <img src="/images/asknet-logo.png" width="30%" alt="ASKnet Logo">
+   <img src="/images/PA-Logo-HD.png" width="30%" alt="Platform Africa Logo">
+   <img src="/images/CC4D.png" width="30%" alt="CC4D Logo"> 
 </div>
 
 
+<div align="center" display:flex; flex-wrap:wrap;">
+   <div width="30%"><img src="/images/asknet-logo.png" alt="ASKnet Logo"></div>
+   <div width="30%"><img src="/images/PA-Logo-HD.png" alt="Platform Africa Logo"></div>
+   <div width="30%"><img src="/images/CC4D.png" alt="CC4D Logo"></div> 
+</div>
 
 <!---
 <p align="center" width="100%"><img width="30%" src="/images/asknet-logo.png" alt="ASKnet Logo"/></p>
