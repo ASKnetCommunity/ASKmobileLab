@@ -56,8 +56,8 @@
 </div>
 
 
-
+<!---
 <p align="center" width="100%"><img width="30%" src="/images/asknet-logo.png" alt="ASKnet Logo"/></p>
-
+-->
 
 
