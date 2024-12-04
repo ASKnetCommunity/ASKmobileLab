@@ -49,11 +49,11 @@
 </p>
   
 
-<div style="display: flex; flex-wrap: wrap; gap: 10 px;">
+<<p align="center" width="100%">>
  <img height="100" src="/images/asknet-logo.png" alt="ASKnet Logo"/>
  <img height="100" src="/images/PA-Logo-HD.png" alt="Platform Africa Logo"/>
  <img height="100" src="/images/CC4D.png" alt="CC4D Logo"/>
-</div>
+</p>
 
 
 <!---
