@@ -53,13 +53,6 @@
 <br>
 
 <div align="center" display="flex" flex-wrap="wrap">
-   <div text-align="center" width="30%"><img src="/images/asknet-logo.png"  alt="ASKnet Logo"></div>
-   <div text-align="center" width="30%"><img src="/images/PA-Logo-HD.png" text-align="center" alt="Platform Africa Logo"></div>
-   <div text-align="center" width="30%"><img src="/images/CC4D.png" text-align="center" alt="CC4D Logo"></div>
-</div>
-
-
-<div align="center" display="flex" flex-wrap="wrap">
    <img src="/images/asknet-logo.png" width="30%"  alt="ASKnet Logo">
    <img src="/images/PA-Logo-HD.png" width="30%" text-align="center" alt="Platform Africa Logo">
    <img src="/images/CC4D.png" width="30%" text-align="center" alt="CC4D Logo">
