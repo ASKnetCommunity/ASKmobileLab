@@ -39,6 +39,9 @@
 |![ASKnet Logo](/images/asknet-logo.png)|![Platform Africa Logo](/images/PA-Logo-HD.png)|![CC4D Logo](/images/CC4D.png)|
   ******* 
 
+<p align="center" width="100%"><img width="30" src="/images/asknet-logo.png" alt="ASKnet Logo"/><br>/p>
+
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
  <p width="30%">![ASKnet Logo](/images/asknet-logo.png)</p>
  <p width="30%">![Platform Africa Logo](/images/PA-Logo-HD.png)</p>
