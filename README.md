@@ -38,11 +38,9 @@
   ******* 
 
 <br>
-<p align="center" width="100%" >
 | **ASKnet**           | **Platform Afica**   | **CC4D**           |
 |----------------------|----------------------|----------------------|
 | <p align="center" width="100%" ><img height="100" src="/images/asknet-logo.png" alt="ASKnet Logo"/></p>  | <p align="center" width="100%" ><img height="100" src="/images/PA-Logo-HD.png" alt="Platform Africa Logo"/></p>  |  <p align="center" width="100%" ><img height="100" src="/images/CC4D.png" alt="CC4D Logo"></p>  |
-</p>
 
 <br>
 <p align="center" width="100%" >
