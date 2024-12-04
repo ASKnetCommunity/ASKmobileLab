@@ -52,11 +52,11 @@
 
 <br>
 
-<p text-align="center" align="center" display="flex" flex-wrap="wrap">
+<div text-align:center align="center" display="flex" flex-wrap="wrap">
    <img src="/images/asknet-logo.png" width="30%" alt="ASKnet Logo">
    <img src="/images/PA-Logo-HD.png" width="30%" alt="Platform Africa Logo">
    <img src="/images/CC4D.png" width="30%" alt="CC4D Logo"> 
-</p>
+</div>
 
 <!---
 <p align="center" width="100%"><img width="30%" src="/images/asknet-logo.png" alt="ASKnet Logo"/></p>
