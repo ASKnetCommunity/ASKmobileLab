@@ -52,9 +52,9 @@
   
 
 <p align="center" width="100%" >
- <img height="100" src="/images/asknet-logo.png" alt="ASKnet Logo" style="border: 2px solid black;"/>
- <img height="100" src="/images/PA-Logo-HD.png" alt="Platform Africa Logo" style="border: 2px solid black;"/>
- <img height="100" src="/images/CC4D.png" alt="CC4D Logo" style="border: 2px solid black;"/>
+ <img height="100" src="/images/asknet-logo.png" alt="ASKnet Logo"/>
+ <img height="100" src="/images/PA-Logo-HD.png" alt="Platform Africa Logo"/>
+ <img height="100" src="/images/CC4D.png" alt="CC4D Logo" style="border: 2 px solid black;"/>
 </p>
 
 
