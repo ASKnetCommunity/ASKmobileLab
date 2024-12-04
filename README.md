@@ -52,7 +52,7 @@
 
 <br>
 
-<div align="center" display:flex flex-wrap:wrap>
+<div align="center" display="flex" flex-wrap="wrap">
    <img src="/images/asknet-logo.png" width="30%" alt="ASKnet Logo">
    <img src="/images/PA-Logo-HD.png" width="30%" alt="Platform Africa Logo">
    <img src="/images/CC4D.png" width="30%" alt="CC4D Logo"> 
