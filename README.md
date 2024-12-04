@@ -31,14 +31,14 @@
 
 
 
-
+<!---
 ### Partners and the  Network
 ******* 
 | ASKnet| Platform Afica|  CC4D|
 | :--------:| :--------: |:--------|
 |![ASKnet Logo](/images/asknet-logo.png)|![Platform Africa Logo](/images/PA-Logo-HD.png)|![CC4D Logo](/images/CC4D.png)|
   ******* 
-
+-->
   
 <div align="center" width="100%">
 | ASKnet    | Platform Afica  |  CC4D  |
