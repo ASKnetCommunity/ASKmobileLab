@@ -40,7 +40,7 @@
 
 | **ASKnet**           | **Platform Afica**   | **CC4D**             |
 |----------------------|----------------------|----------------------|
-| <img height="10%" src="/images/asknet-logo.png" alt="ASKnet Logo"/>  | <img height="10%" src="/images/PA-Logo-HD.png" alt="Platform Africa Logo"/> |  <img height="10%" src="/images/CC4D.png" alt="CC4D Logo">  |
+| <img height="100" src="/images/asknet-logo.png" alt="ASKnet Logo"/>  | <img height="100" src="/images/PA-Logo-HD.png" alt="Platform Africa Logo"/> |  <img height="100" src="/images/CC4D.png" alt="CC4D Logo">  |
 
 <br>
 
