@@ -40,11 +40,11 @@
   ******* 
 -->
   
-<div align="center" width="100%">
+<p align="center" width="100%">
  | ASKnet    | Platform Afica  |  CC4D  |
  | :--------:| :--------: | :--------: |
  | <img height="100" src="/images/asknet-logo.png" alt="ASKnet Logo"/> | <img height="100" src="/images/PA-Logo-HD.png" alt="Platform Africa Logo"/> | <img height="100" src="/images/CC4D.png" alt="CC4D Logo"/> |
-</div>
+</p>
   
 
 <div style="display: flex; flex-wrap: wrap; gap: 10 px;">
