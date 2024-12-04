@@ -39,14 +39,13 @@
 |![ASKnet Logo](/images/asknet-logo.png)|![Platform Africa Logo](/images/PA-Logo-HD.png)|![CC4D Logo](/images/CC4D.png)|
   ******* 
 
-<p align="center" width="100%"><img width="30%" src="/images/asknet-logo.png" alt="ASKnet Logo"/><br>/p>
+<p align="center" width="100%"><img width="30%" src="/images/asknet-logo.png" alt="ASKnet Logo"/></p>
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
  <img width="30%" src="/images/asknet-logo.png" alt="ASKnet Logo"/>
- <img width="30%" src="/images/asknet-logo.png" alt="ASKnet Logo"/>
- <img width="30%" src="/images/asknet-logo.png" alt="ASKnet Logo"/>
+ <img width="30%" src="/images/PA-Logo-HD.png" alt="Platform Africa Logo"/>
+ <img width="30%" src="/images/CC4D.png" alt="CC4D Logo"/>
 </div>
 
-<p width="30%">![Platform Africa Logo](/images/PA-Logo-HD.png)</p>
- <p width="30%">![CC4D Logo](/images/CC4D.png)</p>
+
