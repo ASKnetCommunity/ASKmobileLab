@@ -51,7 +51,7 @@
 </p>
 
 
-<div align="center" height="100" display:flex; flex-wrap:wrap;">
+<div align="center" height="100px" display:flex; flex-wrap:wrap;">
    <img src="/images/asknet-logo.png" width="30%" alt="Image 1">
    <img src="images/PA-Logo-HD.png" width="30%" alt="Image 2">
    <img src="/images/CC4D.png" width="30%" alt="Image 3"> 
