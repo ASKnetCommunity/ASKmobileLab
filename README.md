@@ -37,9 +37,6 @@
 |![ASKnet Logo](/images/asknet-logo.png)|![Platform Africa Logo](/images/PA-Logo-HD.png)|![CC4D Logo](/images/CC4D.png)|
   ******* 
 
-| **ASKnet**           | **Platform Afica**   | **CC4D**             |
-|----------------------|----------------------|----------------------|
-| <p align="center" width="100%" ><img height="100" src="/images/asknet-logo.png" alt="ASKnet Logo"/></p>  | <p align="center" width="100%" ><img height="100" src="/images/PA-Logo-HD.png" alt="Platform Africa Logo"/></p>  |  <p align="center" width="100%" ><img height="100" src="/images/CC4D.png" alt="CC4D Logo"></p>  |
 
 | **ASKnet**           | **Platform Afica**   | **CC4D**             |
 |----------------------|----------------------|----------------------|
@@ -56,9 +53,9 @@
 <br>
 
 <p align="center" width="100%" >
- <p><img height="100" src="/images/asknet-logo.png" alt="ASKnet Logo"/><em>ASKnet Logo</em></p>
- <p><img height="100" src="/images/PA-Logo-HD.png" alt="Platform Africa Logo"/><em>Platform Africa Logo</em></p>
- <p><img height="100" src="/images/CC4D.png" alt="CC4D Logo"/><em>CC4D Logo</em></p>
+ <div><img height="100" src="/images/asknet-logo.png" alt="ASKnet Logo"/><em>ASKnet Logo</em></div>
+ <div><img height="100" src="/images/PA-Logo-HD.png" alt="Platform Africa Logo"/><em>Platform Africa Logo</em></div>
+ <div><img height="100" src="/images/CC4D.png" alt="CC4D Logo"/><em>CC4D Logo</em></div>
 </p>
 
 <!---
