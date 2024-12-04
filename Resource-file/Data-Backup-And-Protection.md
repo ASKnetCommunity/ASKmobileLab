@@ -1,7 +1,4 @@
-<p align="center" width="100%">DATA BACKUP AND DATA PROTECTION</p>
-
-# DATA BACKUP AND DATA PROTECTION
-
+<p align="center">DATA BACKUP AND DATA PROTECTION</p>
   
   ---
 
