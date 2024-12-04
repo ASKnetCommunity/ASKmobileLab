@@ -50,8 +50,8 @@
  <img height="100" src="/images/CC4D.png" alt="CC4D Logo"/>
 </p>
 
-<div height="100" style="justify-content: center;">
- <div style="display:flex; flex-wrap:wrap;">
+<div height="100" justify-content: center;>
+ <div display:flex; flex-wrap:wrap;">
    <img src="/images/asknet-logo.png" width="30%" alt="Image 1">
    <img src="images/PA-Logo-HD.png" width="30%" alt="Image 2">
    <img src="/images/CC4D.png" width="30%" alt="Image 3">
