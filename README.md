@@ -60,7 +60,7 @@
 <br>
 
 <div align="center" display:flex; flex-wrap:wrap;">
-   <p width="30%"><img src="/images/asknet-logo.png" alt="ASKnet Logo"></p>
+   <p width="30%"><img src="/images/asknet-logo.png" alt="ASKnet Logo"><em>ASKnet</em></p>
    <p width="30%"><img src="/images/PA-Logo-HD.png" alt="Platform Africa Logo"></p>
    <p width="30%"><img src="/images/CC4D.png" alt="CC4D Logo"></p> 
 </div>
